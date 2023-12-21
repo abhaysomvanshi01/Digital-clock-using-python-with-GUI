@@ -1,1 +1,1 @@
-# Digital-clock-using-python-with-GUI
+# Digital clock using python with GUI
